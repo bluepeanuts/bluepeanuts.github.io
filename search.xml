@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[小白建立Next主题博客资料搬运]]></title>
+    <url>%2F2019%2F10%2F10%2Fhexo-build%2F</url>
+    <content type="text"><![CDATA[写作目的 网上关于next主题建站和配置的资料特别多，现把我建站过程中参考的有效资料列出来， 一方面是感谢这些博主无私的分享，另一方面也做个记录，如果能帮助到建站的朋友，那更好。 最后，即便有详细的资料，遇到问题仍然要勤快的google哦～ 内容大纲 搭建hexo博客 修改配置 主题修改（landscape-&gt;next)，社交链接，侧边栏，自动摘录 头像旋转 背景修改,站内搜索 添加评论gitalk 侧边栏文章目录 新建博客 添加打赏 添加访问量 可能遇到的问题及解决方法 npm install出错 添加gitalk后所有页面都是评论 hexo d时出错 关于页404 删除github里博客的commit记录 搭建hexo博客 mac版hexo搭建参考资料 如果npm install报错，试下sudo npm install 新建github repository时，切记name.github.io的name和账号名字要相同 hexo搭建博客 修改配置 主题修改,社交链接，侧边栏，自动摘录 头像旋转 背景修改,站内搜索 注意，如果你喜欢当前的博客背景，只要把canvas_nest设置就可以了 添加评论gitalk 注意，添加gitalk后会默认所有的md都包含评论，想关掉的话就在md里手动设置comments: false，如果之后看到分类页等包含评论，就看看这条tips吧 侧边栏文章目录 新建博客 分类页新建 新建博客后，打开侧边栏的分类页面如果显示404,那说明需要新建分类页，其他页面以此类推，next默认首页/归档页是自带的，其他的页面都要自己创建 个人博客页新建 添加打赏 添加访问量 可能遇到的问题及解决方法 npm install出错 sudo npm install 添加gitalk后所有页面都是评论 手动设置comments: false hexo d时出错 在修改.yml文件时，冒号后面一定要有空格 关于页404 需要新建关于页，见上方的参考资料 删除github里博客的commit记录 cd myblog -&gt; ls -la -&gt; rm -rf .deploy_git 参考资料 本博客部分内容参考自以下内容，特标明出处 1.mac版hexo搭建参考资料 2.hexo搭建博客 3.主题修改,社交链接，侧边栏，自动摘录 4.头像旋转 5.背景修改,站内搜索 6.添加评论gitalk 7.侧边栏文章目录 8.分类页新建 9.个人博客页新建 10.添加打赏 11.添加访问量 再次感谢优秀网友们的分享，让我可以顺利搭建博客～ love&amp;peace]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>建站资料</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[关于我]]></title>
     <url>%2F2019%2F10%2F09%2Fhello-world%2F</url>
     <content type="text"><![CDATA[开博原因 怕忘。。。 沉淀！！！ 博客内容 数据分析 因果推断 技能 sql ^-^很可以～ google 你懂的～ python 还好还好啦…… ps: 一些思考还有一些碎碎念]]></content>
